@@ -1,4 +1,4 @@
-## Kitware Web Suite
+## Kitware Web Suite [![Dependency Status](https://img.shields.io/david/kitware/kw-web-suite.svg)](https://david-dm.org/kitware/kw-web-suite)
 
 ### Introduction
 
@@ -70,7 +70,6 @@ jasmine-core            | ![npm version](https://badge.fury.io/js/jasmine-core.s
 jest-cli                | ![npm version](https://badge.fury.io/js/jest-cli.svg)                  | 0.8.2
 karma                   | ![npm version](https://badge.fury.io/js/karma.svg)                     | 0.13.21
 karma-chrome-launcher   | ![npm version](https://badge.fury.io/js/karma-chrome-launcher.svg)     | 0.2.2
-karma-cli               | ![npm version](https://badge.fury.io/js/karma-cli.svg)                 | 0.1.2
 karma-coverage          | ![npm version](https://badge.fury.io/js/karma-coverage.svg)            | 0.5.3
 karma-firefox-launcher  | ![npm version](https://badge.fury.io/js/karma-firefox-launcher.svg)    | 0.1.7
 karma-jasmine           | ![npm version](https://badge.fury.io/js/karma-jasmine.svg)             | 0.3.7
