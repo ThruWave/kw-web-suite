@@ -77,6 +77,6 @@
         "semantic-release": "semantic-release pre && npm publish && semantic-release post"
     },
     "bin": {
-        "fix-kw-web-suite": "node ./bin/fix-kw-web-suite.js"
+        "fix-kw-web-suite": "./bin/fix-kw-web-suite.js"
     }
 }
