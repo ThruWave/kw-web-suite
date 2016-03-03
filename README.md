@@ -11,6 +11,20 @@ the tools and versions used accross our Web projects.
 
 Here is the full list that will be available to you with **kw-web-suite**.
 
+**Caution**:
+
+For npm < 3.x the executable from kw-web-suite will be located underneath kw-web-suite/node_modules
+which will prevent your application from properly using them. In order to fix that you can
+add the following **postinstall** command in your package.json.
+
+```js
+ [...]
+ "scripts": {
+    "postinstall": "fix-kw-web-suite"
+    [...]
+ }
+```
+
 ### ES6
 
 Package name        | NPM Version                                                      | Version
@@ -93,3 +107,10 @@ Package name              | NPM Version                                         
 commitizen                | ![npm version](https://badge.fury.io/js/commitizen.svg)                | 2.5.0
 cz-conventional-changelog | ![npm version](https://badge.fury.io/js/cz-conventional-changelog.svg) | 1.1.5
 semantic-release          | ![npm version](https://badge.fury.io/js/semantic-release.svg)          | 4.3.5
+
+
+### Utilities
+
+Package name  | NPM Version                                          | Version
+------------- | ---------------------------------------------------- | --------
+shelljs       | ![npm version](https://badge.fury.io/js/shelljs.svg) | 0.6.0

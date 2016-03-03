@@ -63,7 +63,9 @@
 
         "commitizen": "2.5.0",
         "cz-conventional-changelog": "1.1.5",
-        "semantic-release": "4.3.5"
+        "semantic-release": "4.3.5",
+
+        "shelljs": "0.6.0"
     },
     "config": {
         "commitizen": {
@@ -73,5 +75,8 @@
     "scripts": {
         "commit" : "git cz",
         "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+    },
+    "bin": {
+        "fix-kw-web-suite": "node ./bin/fix-kw-web-suite.js"
     }
 }
