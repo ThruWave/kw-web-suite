@@ -14,6 +14,6 @@ if (shell.test('-d', './node_modules/kw-web-suite/node_modules')) {
     // Copy links
     shell.mkdir('-p', './node_modules/.bin');
     shell.ls('./node_modules/kw-web-suite/node_modules/.bin').forEach(function(fileName) {
-        shell.cp('-f', './node_modules/kw-web-suite/node_modules/.bin/' + fileName, './node_modules/.bin/');
+        ln('-sf', './node_modules/kw-web-suite/node_modules/.bin/' + fileName, './node_modules/.bin/');
     });
 }
