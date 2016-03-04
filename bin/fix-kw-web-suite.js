@@ -7,13 +7,16 @@ var shell = require('shelljs'),
 // Copy packages over
 if (shell.test('-d', './node_modules/kw-web-suite/node_modules')) {
     shell.ls('./node_modules/kw-web-suite/node_modules').forEach(function(fileName) {
-        shell.rm('-rf', './node_modules/' + fileName);
-        shell.cp('-rf', './node_modules/kw-web-suite/node_modules/' + fileName, './node_modules/');
+        if(!shell.test('-e', './node_modules/'+ fileName) && !shell.test('-L', './node_modules/'+ fileName)) {
+            shell.ln('-s','./kw-web-suite/node_modules/' + fileName, './node_modules/'+ fileName);
+        }
     });
 
     // Copy links
     shell.mkdir('-p', './node_modules/.bin');
     shell.ls('./node_modules/kw-web-suite/node_modules/.bin').forEach(function(fileName) {
-        ln('-sf', './node_modules/kw-web-suite/node_modules/.bin/' + fileName, './node_modules/.bin/');
+        if(!shell.test('-L', './node_modules/.bin/'+ fileName)) {
+            shell.ln('-s','../kw-web-suite/node_modules/.bin/' + fileName, './node_modules/.bin/'+ fileName);
+        }
     });
 }
