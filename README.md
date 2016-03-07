@@ -20,7 +20,7 @@ add the following **postinstall** command in your package.json.
 ```js
  [...]
  "scripts": {
-    "postinstall": "fix-kw-web-suite"
+    "postinstall": "fix-kw-web-suite || true"
     [...]
  }
 ```
