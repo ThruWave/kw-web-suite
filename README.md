@@ -38,12 +38,14 @@ babel-preset-react  | ![npm version](https://badge.fury.io/js/babel-preset-react
 
 ### ESLint
 
-Package name         | NPM Version                                                       | Version
--------------------- | ----------------------------------------------------------------- | --------
-eslint               | ![npm version](https://badge.fury.io/js/eslint.svg)               | 2.9.0
-eslint-loader        | ![npm version](https://badge.fury.io/js/eslint-loader.svg)        | 1.3.0
-eslint-config-airbnb | ![npm version](https://badge.fury.io/js/eslint-config-airbnb.svg) | 8.0.0
-eslint-plugin-react  | ![npm version](https://badge.fury.io/js/eslint-plugin-react.svg)  | 5.0.1
+Package name           | NPM Version                                                        | Version
+---------------------- | ------------------------------------------------------------------ | --------
+eslint                 | ![npm version](https://badge.fury.io/js/eslint.svg)                | 2.9.0
+eslint-loader          | ![npm version](https://badge.fury.io/js/eslint-loader.svg)         | 1.3.0
+eslint-config-airbnb   | ![npm version](https://badge.fury.io/js/eslint-config-airbnb.svg)  | 8.0.0
+eslint-plugin-react    | ![npm version](https://badge.fury.io/js/eslint-plugin-react.svg)   | 5.0.1
+eslint-plugin-import   | ![npm version](https://badge.fury.io/js/eslint-plugin-import.svg)  | 1.6.1
+eslint-plugin-jsx-a11y | ![npm version](https://badge.fury.io/js/eslint-plugin-jsx-a11y.svg)| 1.0.4
 
 ### Webpack loaders
 
@@ -87,7 +89,7 @@ karma-chrome-launcher     | ![npm version](https://badge.fury.io/js/karma-chrome
 karma-coverage            | ![npm version](https://badge.fury.io/js/karma-coverage.svg)            | 0.5.5
 karma-firefox-launcher    | ![npm version](https://badge.fury.io/js/karma-firefox-launcher.svg)    | 0.1.7
 karma-jasmine             | ![npm version](https://badge.fury.io/js/karma-jasmine.svg)             | 0.3.8
-karma-phantomjs2-launcher | ![npm version](https://badge.fury.io/js/karma-phantomjs2-launcher.svg) | 0.5.0
+karma-phantomjs-launcher  | ![npm version](https://badge.fury.io/js/karma-phantomjs-launcher.svg)  | 1.0.0
 karma-safari-launcher     | ![npm version](https://badge.fury.io/js/karma-safari-launcher.svg)     | 0.1.1
 karma-sourcemap-loader    | ![npm version](https://badge.fury.io/js/karma-sourcemap-loader.svg)    | 0.3.7
 karma-webpack             | ![npm version](https://badge.fury.io/js/karma-webpack.svg)             | 1.7.0
