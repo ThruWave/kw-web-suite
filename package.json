@@ -12,7 +12,7 @@
     },
     "homepage": "https://github.com/kitware/kw-web-suite#readme",
     "dependencies": {
-        "babel-core": "6.7.2",
+        "babel-core": "6.8.0",
         "babel-eslint": "5.0.0",
         "babel-loader": "6.2.4",
         "babel-polyfill": "6.7.2",
