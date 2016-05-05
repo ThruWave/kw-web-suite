@@ -1,5 +1,8 @@
 ## Kitware Web Suite [![Dependency Status](https://img.shields.io/david/kitware/kw-web-suite.svg)](https://david-dm.org/kitware/kw-web-suite)
 
+### `reduced-hpcc-deps`
+Difference: this branch has no modules for testing.
+
 ### Introduction
 
 The **Kitware Web Suite** package aims to provide a common
@@ -79,21 +82,7 @@ webpack-dev-server  | ![npm version](https://badge.fury.io/js/webpack-dev-server
 
 ### Testing
 
-Package name              | NPM Version                                                            | Version
-------------------------- | ---------------------------------------------------------------------- | --------
-expect                    | ![npm version](https://badge.fury.io/js/expect.svg)                    | 1.18.0
-jasmine-core              | ![npm version](https://badge.fury.io/js/jasmine-core.svg)              | 2.4.1
-jest-cli                  | ![npm version](https://badge.fury.io/js/jest-cli.svg)                  | 12.0.2
-karma                     | ![npm version](https://badge.fury.io/js/karma.svg)                     | 0.13.22
-karma-chrome-launcher     | ![npm version](https://badge.fury.io/js/karma-chrome-launcher.svg)     | 0.2.3
-karma-coverage            | ![npm version](https://badge.fury.io/js/karma-coverage.svg)            | 0.5.5
-karma-firefox-launcher    | ![npm version](https://badge.fury.io/js/karma-firefox-launcher.svg)    | 0.1.7
-karma-jasmine             | ![npm version](https://badge.fury.io/js/karma-jasmine.svg)             | 0.3.8
-karma-phantomjs-launcher  | ![npm version](https://badge.fury.io/js/karma-phantomjs-launcher.svg)  | 1.0.0
-karma-safari-launcher     | ![npm version](https://badge.fury.io/js/karma-safari-launcher.svg)     | 0.1.1
-karma-sourcemap-loader    | ![npm version](https://badge.fury.io/js/karma-sourcemap-loader.svg)    | 0.3.7
-karma-webpack             | ![npm version](https://badge.fury.io/js/karma-webpack.svg)             | 1.7.0
-phantomjs-prebuilt        | ![npm version](https://badge.fury.io/js/phantomjs-prebuilt.svg)        | 2.1.7
+There are no modules for testing in this branch.
 
 ### Coverage
 

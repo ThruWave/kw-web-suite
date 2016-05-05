@@ -43,12 +43,8 @@
         "node-libs-browser": "1.0.0",
         "webpack": "1.13.0",
         "webpack-dev-server": "1.14.1",
-
-        "expect":"1.18.0",
-        "jasmine-core": "2.4.1",
-        "jest-cli": "12.0.2",
-
-        "commitizen": "2.8.1",
+        
+	"commitizen": "2.8.1",
         "cz-conventional-changelog": "1.1.6",
         "semantic-release": "4.3.5",
 
