@@ -29,10 +29,10 @@ add the following **postinstall** command in your package.json.
 
 Package name        | NPM Version                                                      | Version
 ------------------- | ---------------------------------------------------------------- | ---------
-babel-core          | ![npm version](https://badge.fury.io/js/babel-core.svg)          | 6.7.7
+babel-core          | ![npm version](https://badge.fury.io/js/babel-core.svg)          | 6.8.0
 babel-eslint        | ![npm version](https://badge.fury.io/js/babel-eslint.svg)        | 6.0.4
 babel-loader        | ![npm version](https://badge.fury.io/js/babel-loader.svg)        | 6.2.4
-babel-polyfill      | ![npm version](https://badge.fury.io/js/babel-polyfill.svg)      | 6.7.4
+babel-polyfill      | ![npm version](https://badge.fury.io/js/babel-polyfill.svg)      | 6.8.0
 babel-preset-es2015 | ![npm version](https://badge.fury.io/js/babel-preset-es2015.svg) | 6.6.0
 babel-preset-react  | ![npm version](https://badge.fury.io/js/babel-preset-react.svg)  | 6.5.0
 
@@ -44,7 +44,7 @@ eslint                 | ![npm version](https://badge.fury.io/js/eslint.svg)    
 eslint-loader          | ![npm version](https://badge.fury.io/js/eslint-loader.svg)         | 1.3.0
 eslint-config-airbnb   | ![npm version](https://badge.fury.io/js/eslint-config-airbnb.svg)  | 8.0.0
 eslint-plugin-react    | ![npm version](https://badge.fury.io/js/eslint-plugin-react.svg)   | 5.0.1
-eslint-plugin-import   | ![npm version](https://badge.fury.io/js/eslint-plugin-import.svg)  | 1.6.1
+eslint-plugin-import   | ![npm version](https://badge.fury.io/js/eslint-plugin-import.svg)  | 1.7.0
 eslint-plugin-jsx-a11y | ![npm version](https://badge.fury.io/js/eslint-plugin-jsx-a11y.svg)| 1.0.4
 
 ### Webpack loaders
@@ -67,7 +67,7 @@ url-loader          | ![npm version](https://badge.fury.io/js/url-loader.svg)   
 
 Package name        | NPM Version                                                      | Version
 ------------------- | ---------------------------------------------------------------- | --------
-html-webpack-plugin | ![npm version](https://badge.fury.io/js/html-webpack-plugin.svg) | 2.16.0
+html-webpack-plugin | ![npm version](https://badge.fury.io/js/html-webpack-plugin.svg) | 2.16.1
 
 ### Webpack cli
 
@@ -76,31 +76,6 @@ Package name        | NPM Version                                               
 node-libs-browser   | ![npm version](https://badge.fury.io/js/node-libs-browser.svg)  | 1.0.0
 webpack             | ![npm version](https://badge.fury.io/js/webpack.svg)            | 1.13.0
 webpack-dev-server  | ![npm version](https://badge.fury.io/js/webpack-dev-server.svg) | 1.14.1
-
-### Testing
-
-Package name              | NPM Version                                                            | Version
-------------------------- | ---------------------------------------------------------------------- | --------
-expect                    | ![npm version](https://badge.fury.io/js/expect.svg)                    | 1.18.0
-jasmine-core              | ![npm version](https://badge.fury.io/js/jasmine-core.svg)              | 2.4.1
-jest-cli                  | ![npm version](https://badge.fury.io/js/jest-cli.svg)                  | 12.0.2
-karma                     | ![npm version](https://badge.fury.io/js/karma.svg)                     | 0.13.22
-karma-chrome-launcher     | ![npm version](https://badge.fury.io/js/karma-chrome-launcher.svg)     | 0.2.3
-karma-coverage            | ![npm version](https://badge.fury.io/js/karma-coverage.svg)            | 0.5.5
-karma-firefox-launcher    | ![npm version](https://badge.fury.io/js/karma-firefox-launcher.svg)    | 0.1.7
-karma-jasmine             | ![npm version](https://badge.fury.io/js/karma-jasmine.svg)             | 0.3.8
-karma-phantomjs-launcher  | ![npm version](https://badge.fury.io/js/karma-phantomjs-launcher.svg)  | 1.0.0
-karma-safari-launcher     | ![npm version](https://badge.fury.io/js/karma-safari-launcher.svg)     | 0.1.1
-karma-sourcemap-loader    | ![npm version](https://badge.fury.io/js/karma-sourcemap-loader.svg)    | 0.3.7
-karma-webpack             | ![npm version](https://badge.fury.io/js/karma-webpack.svg)             | 1.7.0
-phantomjs-prebuilt        | ![npm version](https://badge.fury.io/js/phantomjs-prebuilt.svg)        | 2.1.7
-
-### Coverage
-
-Package name                 | NPM Version                                                               | Version
----------------------------- | ------------------------------------------------------------------------- | --------
-istanbul                     | ![npm version](https://badge.fury.io/js/istanbul.svg)                     | 0.4.3
-istanbul-instrumenter-loader | ![npm version](https://badge.fury.io/js/istanbul-instrumenter-loader.svg) | 0.2.0
 
 ### Software process
 
