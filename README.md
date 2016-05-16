@@ -38,14 +38,15 @@ babel-preset-react  | ![npm version](https://badge.fury.io/js/babel-preset-react
 
 ### ESLint
 
-Package name           | NPM Version                                                        | Version
----------------------- | ------------------------------------------------------------------ | --------
-eslint                 | ![npm version](https://badge.fury.io/js/eslint.svg)                | 2.9.0
-eslint-loader          | ![npm version](https://badge.fury.io/js/eslint-loader.svg)         | 1.3.0
-eslint-config-airbnb   | ![npm version](https://badge.fury.io/js/eslint-config-airbnb.svg)  | 8.0.0
-eslint-plugin-react    | ![npm version](https://badge.fury.io/js/eslint-plugin-react.svg)   | 5.0.1
-eslint-plugin-import   | ![npm version](https://badge.fury.io/js/eslint-plugin-import.svg)  | 1.7.0
-eslint-plugin-jsx-a11y | ![npm version](https://badge.fury.io/js/eslint-plugin-jsx-a11y.svg)| 1.0.4
+Package name                   | NPM Version                                                                | Version
+------------------------------ | -------------------------------------------------------------------------- | --------
+eslint                         | ![npm version](https://badge.fury.io/js/eslint.svg)                        | 2.9.0
+eslint-loader                  | ![npm version](https://badge.fury.io/js/eslint-loader.svg)                 | 1.3.0
+eslint-config-airbnb           | ![npm version](https://badge.fury.io/js/eslint-config-airbnb.svg)          | 8.0.0
+eslint-plugin-react            | ![npm version](https://badge.fury.io/js/eslint-plugin-react.svg)           | 5.0.1
+eslint-plugin-import           | ![npm version](https://badge.fury.io/js/eslint-plugin-import.svg)          | 1.7.0
+eslint-plugin-jsx-a11y         | ![npm version](https://badge.fury.io/js/eslint-plugin-jsx-a11y.svg)        | 1.0.4
+eslint-import-resolver-webpack | ![npm version](https://badge.fury.io/js/eslint-import-resolver-webpack.svg)| 0.2.4
 
 ### Webpack loaders
 
