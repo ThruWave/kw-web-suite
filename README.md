@@ -40,12 +40,12 @@ babel-preset-react  | ![npm version](https://badge.fury.io/js/babel-preset-react
 
 Package name                   | NPM Version                                                                | Version
 ------------------------------ | -------------------------------------------------------------------------- | --------
-eslint                         | ![npm version](https://badge.fury.io/js/eslint.svg)                        | 2.9.0
+eslint                         | ![npm version](https://badge.fury.io/js/eslint.svg)                        | 2.10.1
 eslint-loader                  | ![npm version](https://badge.fury.io/js/eslint-loader.svg)                 | 1.3.0
-eslint-config-airbnb           | ![npm version](https://badge.fury.io/js/eslint-config-airbnb.svg)          | 8.0.0
-eslint-plugin-react            | ![npm version](https://badge.fury.io/js/eslint-plugin-react.svg)           | 5.0.1
-eslint-plugin-import           | ![npm version](https://badge.fury.io/js/eslint-plugin-import.svg)          | 1.7.0
-eslint-plugin-jsx-a11y         | ![npm version](https://badge.fury.io/js/eslint-plugin-jsx-a11y.svg)        | 1.0.4
+eslint-config-airbnb           | ![npm version](https://badge.fury.io/js/eslint-config-airbnb.svg)          | 9.0.1
+eslint-plugin-react            | ![npm version](https://badge.fury.io/js/eslint-plugin-react.svg)           | 5.1.1
+eslint-plugin-import           | ![npm version](https://badge.fury.io/js/eslint-plugin-import.svg)          | 1.8.0
+eslint-plugin-jsx-a11y         | ![npm version](https://badge.fury.io/js/eslint-plugin-jsx-a11y.svg)        | 1.2.0
 eslint-import-resolver-webpack | ![npm version](https://badge.fury.io/js/eslint-import-resolver-webpack.svg)| 0.2.4
 
 ### Webpack loaders
@@ -61,14 +61,14 @@ json-loader         | ![npm version](https://badge.fury.io/js/json-loader.svg)  
 postcss-loader      | ![npm version](https://badge.fury.io/js/postcss-loader.svg)       | 0.9.1
 shader-loader       | ![npm version](https://badge.fury.io/js/shader-loader.svg)        | 1.1.4
 style-loader        | ![npm version](https://badge.fury.io/js/style-loader.svg)         | 0.13.1
-svg-sprite-loader   | ![npm version](https://badge.fury.io/js/svg-sprite-loader.svg)    | 0.0.18
+svg-sprite-loader   | ![npm version](https://badge.fury.io/js/svg-sprite-loader.svg)    | 0.0.19
 url-loader          | ![npm version](https://badge.fury.io/js/url-loader.svg)           | 0.5.7
 
 ### Webpack plugins
 
 Package name        | NPM Version                                                      | Version
 ------------------- | ---------------------------------------------------------------- | --------
-html-webpack-plugin | ![npm version](https://badge.fury.io/js/html-webpack-plugin.svg) | 2.16.1
+html-webpack-plugin | ![npm version](https://badge.fury.io/js/html-webpack-plugin.svg) | 2.17.0
 
 ### Webpack cli
 
