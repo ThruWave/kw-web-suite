@@ -44,7 +44,7 @@ eslint                         | ![npm version](https://badge.fury.io/js/eslint.
 eslint-loader                  | ![npm version](https://badge.fury.io/js/eslint-loader.svg)                 | 1.5.0
 eslint-config-airbnb           | ![npm version](https://badge.fury.io/js/eslint-config-airbnb.svg)          | 12.0.0
 eslint-plugin-react            | ![npm version](https://badge.fury.io/js/eslint-plugin-react.svg)           | 6.3.0
-eslint-plugin-import           | ![npm version](https://badge.fury.io/js/eslint-plugin-import.svg)          | 2.0.0
+eslint-plugin-import           | ![npm version](https://badge.fury.io/js/eslint-plugin-import.svg)          | 1.16.0
 eslint-plugin-jsx-a11y         | ![npm version](https://badge.fury.io/js/eslint-plugin-jsx-a11y.svg)        | 2.2.0
 eslint-import-resolver-webpack | ![npm version](https://badge.fury.io/js/eslint-import-resolver-webpack.svg)| 0.6.0
 
