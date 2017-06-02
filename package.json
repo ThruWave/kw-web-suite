@@ -60,8 +60,5 @@
     "scripts": {
         "commit" : "git cz",
         "semantic-release": "semantic-release pre && npm publish && semantic-release post"
-    },
-    "bin": {
-        "fix-kw-web-suite": "./bin/fix-kw-web-suite.js"
     }
 }
