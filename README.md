@@ -54,19 +54,20 @@ Package name          | NPM Version                                             
 --------------------- | ----------------------------------------------------------------- | --------
 autoprefixer          | ![npm version](https://badge.fury.io/js/autoprefixer.svg)         | 7.1.1
 css-loader            | ![npm version](https://badge.fury.io/js/css-loader.svg)           | 0.28.4
+exports-loader        | ![npm version](https://badge.fury.io/js/exports-loader.svg)       | 0.6.4
 expose-loader         | ![npm version](https://badge.fury.io/js/expose-loader.svg)        | 0.7.3
 file-loader           | ![npm version](https://badge.fury.io/js/file-loader.svg)          | 0.11.1
+hson-loader           | ![npm version](https://badge.fury.io/js/hson-loader.svg)          | 2.0.0
 html-loader           | ![npm version](https://badge.fury.io/js/html-loader.svg)          | 0.4.5
+postcss-loader        | ![npm version](https://badge.fury.io/js/postcss-loader.svg)       | 2.0.5
 raw-loader            | ![npm version](https://badge.fury.io/js/raw-loader.svg)           | 0.5.1
 regexp-replace-loader | ![npm version](https://badge.fury.io/js/regexp-replace-loader.svg)| 1.0.0
-worker-loader         | ![npm version](https://badge.fury.io/js/worker-loader.svg)        | 0.8.0
-hson-loader           | ![npm version](https://badge.fury.io/js/hson-loader.svg)          | 2.0.0
-postcss-loader        | ![npm version](https://badge.fury.io/js/postcss-loader.svg)       | 2.0.5
 shader-loader         | ![npm version](https://badge.fury.io/js/shader-loader.svg)        | 1.3.0
 string-replace-loader | ![npm version](https://badge.fury.io/js/string-replace-loader.svg)| 1.2.0
 style-loader          | ![npm version](https://badge.fury.io/js/style-loader.svg)         | 0.18.1
 svg-sprite-loader     | ![npm version](https://badge.fury.io/js/svg-sprite-loader.svg)    | 3.0.5
 url-loader            | ![npm version](https://badge.fury.io/js/url-loader.svg)           | 0.5.8
+worker-loader         | ![npm version](https://badge.fury.io/js/worker-loader.svg)        | 0.8.0
 
 ### Webpack plugins
 
