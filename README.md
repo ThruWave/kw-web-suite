@@ -11,30 +11,17 @@ the tools and versions used accross our Web projects.
 
 Here is the full list that will be available to you with **kw-web-suite**.
 
-**Caution**:
-
-For npm < 3.x the executable from kw-web-suite will be located underneath kw-web-suite/node_modules
-which will prevent your application from properly using them. In order to fix that you can
-add the following **postinstall** command in your package.json.
-
-```js
- [...]
- "scripts": {
-    "postinstall": "fix-kw-web-suite || true"
-    [...]
- }
-```
-
 ### ES6
 
-Package name        | NPM Version                                                      | Version
-------------------- | ---------------------------------------------------------------- | ---------
-babel-core          | ![npm version](https://badge.fury.io/js/babel-core.svg)          | 6.24.1
-babel-eslint        | ![npm version](https://badge.fury.io/js/babel-eslint.svg)        | 7.2.3
-babel-loader        | ![npm version](https://badge.fury.io/js/babel-loader.svg)        | 7.0.0
-babel-polyfill      | ![npm version](https://badge.fury.io/js/babel-polyfill.svg)      | 6.23.0
-babel-preset-es2015 | ![npm version](https://badge.fury.io/js/babel-preset-es2015.svg) | 6.24.1
-babel-preset-react  | ![npm version](https://badge.fury.io/js/babel-preset-react.svg)  | 6.24.1
+Package name                            | NPM Version                                                      | Version
+--------------------------------------- | ---------------------------------------------------------------- | ---------
+babel-core                              | ![npm version](https://badge.fury.io/js/babel-core.svg)          | 6.24.1
+babel-eslint                            | ![npm version](https://badge.fury.io/js/babel-eslint.svg)        | 7.2.3
+babel-loader                            | ![npm version](https://badge.fury.io/js/babel-loader.svg)        | 7.0.0
+babel-polyfill                          | ![npm version](https://badge.fury.io/js/babel-polyfill.svg)      | 6.23.0
+babel-preset-es2015                     | ![npm version](https://badge.fury.io/js/babel-preset-es2015.svg) | 6.24.1
+babel-preset-react                      | ![npm version](https://badge.fury.io/js/babel-preset-react.svg)  | 6.24.1
+babel-plugin-minify-guarded-expressions | ![npm version](https://badge.fury.io/js/babel-plugin-minify-guarded-expressions.svg) | 0.1.1
 
 ### ESLint
 
