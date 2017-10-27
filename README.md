@@ -27,7 +27,7 @@ babel-plugin-minify-guarded-expressions | ![npm version](https://badge.fury.io/j
 
 Package name                   | NPM Version                                                                | Version
 ------------------------------ | -------------------------------------------------------------------------- | --------
-eslint                         | ![npm version](https://badge.fury.io/js/eslint.svg)                        | 4.8.0
+eslint                         | ![npm version](https://badge.fury.io/js/eslint.svg)                        | 4.9.0
 eslint-loader                  | ![npm version](https://badge.fury.io/js/eslint-loader.svg)                 | 1.9.0
 eslint-config-airbnb           | ![npm version](https://badge.fury.io/js/eslint-config-airbnb.svg)          | 16.0.0
 eslint-plugin-react            | ![npm version](https://badge.fury.io/js/eslint-plugin-react.svg)           | 7.4.0
