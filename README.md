@@ -16,45 +16,47 @@ Here is the full list that will be available to you with **kw-web-suite**.
 Package name                            | NPM Version                                                      | Version
 --------------------------------------- | ---------------------------------------------------------------- | ---------
 babel-core                              | ![npm version](https://badge.fury.io/js/babel-core.svg)          | 6.26.0
-babel-eslint                            | ![npm version](https://badge.fury.io/js/babel-eslint.svg)        | 8.0.1
+babel-eslint                            | ![npm version](https://badge.fury.io/js/babel-eslint.svg)        | 8.1.2
 babel-loader                            | ![npm version](https://badge.fury.io/js/babel-loader.svg)        | 7.1.2
 babel-polyfill                          | ![npm version](https://badge.fury.io/js/babel-polyfill.svg)      | 6.26.0
-babel-preset-es2015                     | ![npm version](https://badge.fury.io/js/babel-preset-es2015.svg) | 6.24.1
+babel-preset-env                        | ![npm version](https://badge.fury.io/js/babel-preset-env.svg)    | 1.6.1
+babel-preset-flow                       | ![npm version](https://badge.fury.io/js/babel-preset-flow.svg)   | 6.23.0
 babel-preset-react                      | ![npm version](https://badge.fury.io/js/babel-preset-react.svg)  | 6.24.1
-babel-plugin-minify-guarded-expressions | ![npm version](https://badge.fury.io/js/babel-plugin-minify-guarded-expressions.svg) | 0.1.1
 
 ### ESLint
 
 Package name                   | NPM Version                                                                | Version
 ------------------------------ | -------------------------------------------------------------------------- | --------
-eslint                         | ![npm version](https://badge.fury.io/js/eslint.svg)                        | 4.9.0
-eslint-loader                  | ![npm version](https://badge.fury.io/js/eslint-loader.svg)                 | 1.9.0
-eslint-config-airbnb           | ![npm version](https://badge.fury.io/js/eslint-config-airbnb.svg)          | 16.0.0
-eslint-plugin-react            | ![npm version](https://badge.fury.io/js/eslint-plugin-react.svg)           | 7.4.0
-eslint-plugin-import           | ![npm version](https://badge.fury.io/js/eslint-plugin-import.svg)          | 2.7.0
-eslint-plugin-jsx-a11y         | ![npm version](https://badge.fury.io/js/eslint-plugin-jsx-a11y.svg)        | 6.0.2
+eslint                         | ![npm version](https://badge.fury.io/js/eslint.svg)                        | 4.14.0
+eslint-config-airbnb           | ![npm version](https://badge.fury.io/js/eslint-config-airbnb.svg)          | 16.1.0
+eslint-config-prettier         | ![npm version](https://badge.fury.io/js/eslint-config-prettier.svg)        | 2.9.0
 eslint-import-resolver-webpack | ![npm version](https://badge.fury.io/js/eslint-import-resolver-webpack.svg)| 0.8.3
+eslint-loader                  | ![npm version](https://badge.fury.io/js/eslint-loader.svg)                 | 1.9.0
+eslint-plugin-import           | ![npm version](https://badge.fury.io/js/eslint-plugin-import.svg)          | 2.8.0
+eslint-plugin-jsx-a11y         | ![npm version](https://badge.fury.io/js/eslint-plugin-jsx-a11y.svg)        | 6.0.3
+eslint-plugin-prettier         | ![npm version](https://badge.fury.io/js/eslint-plugin-prettier.svg)        | 2.4.0
+eslint-plugin-react            | ![npm version](https://badge.fury.io/js/eslint-plugin-react.svg)           | 7.5.1
 
 ### Webpack loaders
 
 Package name          | NPM Version                                                       | Version
 --------------------- | ----------------------------------------------------------------- | --------
-autoprefixer          | ![npm version](https://badge.fury.io/js/autoprefixer.svg)         | 7.1.5
+autoprefixer          | ![npm version](https://badge.fury.io/js/autoprefixer.svg)         | 7.2.4
 css-loader            | ![npm version](https://badge.fury.io/js/css-loader.svg)           | 0.28.7
 exports-loader        | ![npm version](https://badge.fury.io/js/exports-loader.svg)       | 0.6.4
-expose-loader         | ![npm version](https://badge.fury.io/js/expose-loader.svg)        | 0.7.3
-file-loader           | ![npm version](https://badge.fury.io/js/file-loader.svg)          | 1.1.5
+expose-loader         | ![npm version](https://badge.fury.io/js/expose-loader.svg)        | 0.7.4
+file-loader           | ![npm version](https://badge.fury.io/js/file-loader.svg)          | 1.1.6
 hson-loader           | ![npm version](https://badge.fury.io/js/hson-loader.svg)          | 2.0.0
 html-loader           | ![npm version](https://badge.fury.io/js/html-loader.svg)          | 0.5.1
-postcss-loader        | ![npm version](https://badge.fury.io/js/postcss-loader.svg)       | 2.0.6
+postcss-loader        | ![npm version](https://badge.fury.io/js/postcss-loader.svg)       | 2.0.10
 raw-loader            | ![npm version](https://badge.fury.io/js/raw-loader.svg)           | 0.5.1
 regexp-replace-loader | ![npm version](https://badge.fury.io/js/regexp-replace-loader.svg)| 1.0.1
 shader-loader         | ![npm version](https://badge.fury.io/js/shader-loader.svg)        | 1.3.1
 string-replace-loader | ![npm version](https://badge.fury.io/js/string-replace-loader.svg)| 1.3.0
-style-loader          | ![npm version](https://badge.fury.io/js/style-loader.svg)         | 0.19.0
-svg-sprite-loader     | ![npm version](https://badge.fury.io/js/svg-sprite-loader.svg)    | 3.2.6
+style-loader          | ![npm version](https://badge.fury.io/js/style-loader.svg)         | 0.19.1
+svg-sprite-loader     | ![npm version](https://badge.fury.io/js/svg-sprite-loader.svg)    | 3.6.2
 url-loader            | ![npm version](https://badge.fury.io/js/url-loader.svg)           | 0.6.2
-worker-loader         | ![npm version](https://badge.fury.io/js/worker-loader.svg)        | 1.0.0
+worker-loader         | ![npm version](https://badge.fury.io/js/worker-loader.svg)        | 1.1.0
 
 ### Webpack plugins
 
@@ -66,23 +68,25 @@ html-webpack-plugin | ![npm version](https://badge.fury.io/js/html-webpack-plugi
 
 Package name        | NPM Version                                                     | Version
 ------------------- | --------------------------------------------------------------- | --------
-node-libs-browser   | ![npm version](https://badge.fury.io/js/node-libs-browser.svg)  | 2.0.0
-webpack             | ![npm version](https://badge.fury.io/js/webpack.svg)            | 3.6.0
-webpack-dev-server  | ![npm version](https://badge.fury.io/js/webpack-dev-server.svg) | 2.9.1
+node-libs-browser   | ![npm version](https://badge.fury.io/js/node-libs-browser.svg)  | 2.1.0
+webpack             | ![npm version](https://badge.fury.io/js/webpack.svg)            | 3.10.0
+webpack-dev-server  | ![npm version](https://badge.fury.io/js/webpack-dev-server.svg) | 2.9.7
 
 ### Software process
 
 Package name              | NPM Version                                                            | Version
 ------------------------- | ---------------------------------------------------------------------- | --------
 commitizen                | ![npm version](https://badge.fury.io/js/commitizen.svg)                | 2.9.6
-cz-conventional-changelog | ![npm version](https://badge.fury.io/js/cz-conventional-changelog.svg) | 2.0.0
-semantic-release          | ![npm version](https://badge.fury.io/js/semantic-release.svg)          | 8.0.3
+cz-conventional-changelog | ![npm version](https://badge.fury.io/js/cz-conventional-changelog.svg) | 2.1.0
+semantic-release          | ![npm version](https://badge.fury.io/js/semantic-release.svg)          | 11.0.2
 
 ### Utilities
 
 Package name  | NPM Version                                                | Version
 ------------- | ---------------------------------------------------------- | --------
 shelljs       | ![npm version](https://badge.fury.io/js/shelljs.svg)       | 0.7.8
+prettier      | ![npm version](https://badge.fury.io/js/prettier.svg)      | 1.9.2
 shx           | ![npm version](https://badge.fury.io/js/shx.svg)           | 0.2.2
-gh-pages      | ![npm version](https://badge.fury.io/js/gh-pages.svg)      | 1.0.0
+gh-pages      | ![npm version](https://badge.fury.io/js/gh-pages.svg)      | 1.1.0
+size-limit    | ![npm version](https://badge.fury.io/js/size-limit.svg)    | 0.13.2
 normalize.css | ![npm version](https://badge.fury.io/js/normalize.css.svg) | 7.0.0
