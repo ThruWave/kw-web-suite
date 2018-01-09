@@ -66,11 +66,12 @@ html-webpack-plugin | ![npm version](https://badge.fury.io/js/html-webpack-plugi
 
 ### Webpack cli
 
-Package name        | NPM Version                                                     | Version
-------------------- | --------------------------------------------------------------- | --------
-node-libs-browser   | ![npm version](https://badge.fury.io/js/node-libs-browser.svg)  | 2.1.0
-webpack             | ![npm version](https://badge.fury.io/js/webpack.svg)            | 3.10.0
-webpack-dev-server  | ![npm version](https://badge.fury.io/js/webpack-dev-server.svg) | 2.9.7
+Package name            | NPM Version                                                          | Version
+----------------------- | -------------------------------------------------------------------- | --------
+node-libs-browser       | ![npm version](https://badge.fury.io/js/node-libs-browser.svg)       | 2.1.0
+webpack                 | ![npm version](https://badge.fury.io/js/webpack.svg)                 | 3.10.0
+webpack-dev-server      | ![npm version](https://badge.fury.io/js/webpack-dev-server.svg)      | 2.9.7
+uglifyjs-webpack-plugin | ![npm version](https://badge.fury.io/js/uglifyjs-webpack-plugin.svg) | 1.1.6
 
 ### Software process
 
@@ -82,11 +83,12 @@ semantic-release          | ![npm version](https://badge.fury.io/js/semantic-rel
 
 ### Utilities
 
-Package name  | NPM Version                                                | Version
-------------- | ---------------------------------------------------------- | --------
-shelljs       | ![npm version](https://badge.fury.io/js/shelljs.svg)       | 0.7.8
-prettier      | ![npm version](https://badge.fury.io/js/prettier.svg)      | 1.9.2
-shx           | ![npm version](https://badge.fury.io/js/shx.svg)           | 0.2.2
-gh-pages      | ![npm version](https://badge.fury.io/js/gh-pages.svg)      | 1.1.0
-size-limit    | ![npm version](https://badge.fury.io/js/size-limit.svg)    | 0.13.2
-normalize.css | ![npm version](https://badge.fury.io/js/normalize.css.svg) | 7.0.0
+Package name      | NPM Version                                                    | Version
+----------------- | -------------------------------------------------------------- | --------
+shelljs           | ![npm version](https://badge.fury.io/js/shelljs.svg)           | 0.7.8
+prettier          | ![npm version](https://badge.fury.io/js/prettier.svg)          | 1.9.2
+shx               | ![npm version](https://badge.fury.io/js/shx.svg)               | 0.2.2
+gh-pages          | ![npm version](https://badge.fury.io/js/gh-pages.svg)          | 1.1.0
+size-limit        | ![npm version](https://badge.fury.io/js/size-limit.svg)        | 0.13.2
+normalize.css     | ![npm version](https://badge.fury.io/js/normalize.css.svg)     | 7.0.0
+inline-source-cli | ![npm version](https://badge.fury.io/js/inline-source-cli.svg) | 1.2.0
