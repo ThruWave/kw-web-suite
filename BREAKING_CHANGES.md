@@ -1,3 +1,7 @@
+## From 5.x to 6.
+
+Update to Webpack 4.
+
 ## From 4.x to 5.
 
 ### Babel preset-env
