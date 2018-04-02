@@ -70,6 +70,7 @@ Package name            | NPM Version                                           
 ----------------------- | -------------------------------------------------------------------- | --------
 node-libs-browser       | ![npm version](https://badge.fury.io/js/node-libs-browser.svg)       | 2.1.0
 webpack                 | ![npm version](https://badge.fury.io/js/webpack.svg)                 | 4.4.1
+webpack-cli             | ![npm version](https://badge.fury.io/js/webpack-cli.svg)             | 2.0.13
 webpack-dev-server      | ![npm version](https://badge.fury.io/js/webpack-dev-server.svg)      | 3.1.1
 uglifyjs-webpack-plugin | ![npm version](https://badge.fury.io/js/uglifyjs-webpack-plugin.svg) | 1.2.4
 
