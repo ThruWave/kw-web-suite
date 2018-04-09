@@ -62,16 +62,16 @@ worker-loader         | ![npm version](https://badge.fury.io/js/worker-loader.sv
 
 Package name        | NPM Version                                                      | Version
 ------------------- | ---------------------------------------------------------------- | --------
-html-webpack-plugin | ![npm version](https://badge.fury.io/js/html-webpack-plugin.svg) | 3.1.0
+html-webpack-plugin | ![npm version](https://badge.fury.io/js/html-webpack-plugin.svg) | 3.2.0
 
 ### Webpack cli
 
 Package name            | NPM Version                                                          | Version
 ----------------------- | -------------------------------------------------------------------- | --------
 node-libs-browser       | ![npm version](https://badge.fury.io/js/node-libs-browser.svg)       | 2.1.0
-webpack                 | ![npm version](https://badge.fury.io/js/webpack.svg)                 | 4.4.1
-webpack-cli             | ![npm version](https://badge.fury.io/js/webpack-cli.svg)             | 2.0.13
-webpack-dev-server      | ![npm version](https://badge.fury.io/js/webpack-dev-server.svg)      | 3.1.1
+webpack                 | ![npm version](https://badge.fury.io/js/webpack.svg)                 | 4.5.0
+webpack-cli             | ![npm version](https://badge.fury.io/js/webpack-cli.svg)             | 2.0.14
+webpack-dev-server      | ![npm version](https://badge.fury.io/js/webpack-dev-server.svg)      | 3.1.3
 uglifyjs-webpack-plugin | ![npm version](https://badge.fury.io/js/uglifyjs-webpack-plugin.svg) | 1.2.4
 
 ### Software process
@@ -80,7 +80,7 @@ Package name              | NPM Version                                         
 ------------------------- | ---------------------------------------------------------------------- | --------
 commitizen                | ![npm version](https://badge.fury.io/js/commitizen.svg)                | 2.9.6
 cz-conventional-changelog | ![npm version](https://badge.fury.io/js/cz-conventional-changelog.svg) | 2.1.0
-semantic-release          | ![npm version](https://badge.fury.io/js/semantic-release.svg)          | 15.1.4
+semantic-release          | ![npm version](https://badge.fury.io/js/semantic-release.svg)          | 15.1.5
 
 ### Utilities
 
