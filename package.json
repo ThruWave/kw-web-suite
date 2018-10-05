@@ -58,7 +58,6 @@
         "commitizen": "3.0.2",
         "cz-conventional-changelog": "2.1.0",
         "semantic-release": "15.9.17",
-        "git-cz": "1.7.1",
         "shelljs": "0.8.2",
         "prettier": "1.14.3",
         "shx": "0.3.2",
@@ -68,11 +67,11 @@
     },
     "config": {
         "commitizen": {
-            "path": "./node_modules/cz-conventional-changelog"
+            "path": "cz-conventional-changelog"
         }
     },
     "scripts": {
-        "commit": "git-cz",
+        "commit": "npx git-cz",
         "semantic-release": "semantic-release"
     }
 }

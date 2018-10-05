@@ -91,7 +91,6 @@ Package name              | NPM Version                                         
 commitizen                | ![npm version](https://badge.fury.io/js/commitizen.svg)                | 3.0.2
 cz-conventional-changelog | ![npm version](https://badge.fury.io/js/cz-conventional-changelog.svg) | 2.1.0
 semantic-release          | ![npm version](https://badge.fury.io/js/semantic-release.svg)          | 15.9.17
-git-cz                    | ![npm version](https://badge.fury.io/js/git-cz.svg)                    | 1.7.1
 
 ### Utilities
 
