@@ -22,7 +22,7 @@ Package name                            | NPM Version                           
 --------------------------------------- | ---------------------------------------------------------------- | ---------
 babel-core                              | ![npm version](https://badge.fury.io/js/babel-core.svg)          | 6.26.3
 babel-eslint                            | ![npm version](https://badge.fury.io/js/babel-eslint.svg)        | 10.0.1
-babel-loader                            | ![npm version](https://badge.fury.io/js/babel-loader.svg)        | 8.0.4
+babel-loader                            | ![npm version](https://badge.fury.io/js/babel-loader.svg)        | 7.1.5
 babel-polyfill                          | ![npm version](https://badge.fury.io/js/babel-polyfill.svg)      | 6.26.0
 babel-preset-env                        | ![npm version](https://badge.fury.io/js/babel-preset-env.svg)    | 1.7.0
 babel-preset-flow                       | ![npm version](https://badge.fury.io/js/babel-preset-flow.svg)   | 6.23.0
