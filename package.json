@@ -4,7 +4,7 @@
     "description": "Set of tools to build and test Web applications gathered inside a single dependency",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/kitware/kw-web-suite.git"
+        "url": "https://github.com/kitware/kw-web-suite.git"
     },
     "license": "BSD-3-Clause",
     "bugs": {
